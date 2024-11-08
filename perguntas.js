@@ -1,35 +1,42 @@
 criaCartao(
-    'História',
-    'Quem descobriu o Brasil?',
-    ' Pedro Álvares Cabral'
+    'brs',
+    'Em que ano bts debutou?',
+    '2013'
 )
 
 criaCartao(
-    'Filosofia',
-        'De quem é a famosa frase “Penso, logo existo”?',
-    'Descartes'
+    'bts',
+        'Quantos membros o grupo tem?',
+    '7 membros'
 )
 
 criaCartao(
-    'Fatos curiosos',
-    'De onde é a invenção do chuveiro elétrico?',
-    'Brasil'
+    'bts',
+    'Quem é o maknae do grupo?',
+    'Jungkook'
 )
 
 criaCartao(
-    'Fatos curiosos',
-    'Quais o menor e o maior país do mundo?',
-    'Vaticano e Russia'
+    'bts',
+    'Quem é o dancarino principal do bts?',
+    'Jung Hoseok'
 )
 
 criaCartao(
-    'Matemática',
-    ' Quantas casas decimais tem o número pi?',
-    'Infinitas'
+    'bts',
+    'Qual o fanchat?',
+    'Kim Namjoon
+    Kim Seokjin
+    Min Yoongi
+    Jung Hoseok
+    Park Jimin
+    Kim Taehyung
+    Jeon Jungkook
+        Bts'
 )
 
 criaCartao(
-    'Química',
-    ' Atualmente, quantos elementos químicos a tabela periódica possui?',
-    '118'
+    'bts',
+    ' Quem faz parte da Rapline?',
+    'Namjoon, Hoseok e Yoongi'
 )
