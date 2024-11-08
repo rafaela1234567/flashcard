@@ -1,12 +1,12 @@
 criaCartao(
-    'brs',
+    'bts',
     'Em que ano bts debutou?',
     '2013'
 )
 
 criaCartao(
     'bts',
-        'Quantos membros o grupo tem?',
+    'Quantos membros o grupo tem?',
     '7 membros'
 )
 
@@ -25,14 +25,7 @@ criaCartao(
 criaCartao(
     'bts',
     'Qual o fanchat?',
-    'Kim Namjoon
-    Kim Seokjin
-    Min Yoongi
-    Jung Hoseok
-    Park Jimin
-    Kim Taehyung
-    Jeon Jungkook
-        Bts'
+    'Kim Namjoon Kim Seokjin Min Yoongi Jung Hoseok Park Jimin Kim Taehyung Jeon Jungkook Bts'
 )
 
 criaCartao(
